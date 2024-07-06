@@ -12,6 +12,8 @@ Cargo.lock
 
 # MSVC Windows builds of rustc generate these, which store debugging information
 *.pdb
+
+.DS_Store
 ###############################################################################
 # See: https://stackoverflow.com/questions/5711120/gitignore-binary-files-that-have-no-extension
 
